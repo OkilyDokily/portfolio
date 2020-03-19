@@ -1,3 +1,7 @@
-div.padding{
-  padding: 3px;
+.about-me {
+  margin-top: 5px;
+}
+
+hr {
+  margin: 3px;
 }
