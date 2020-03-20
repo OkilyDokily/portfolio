@@ -2,7 +2,7 @@
 
 #### _This is a summary of work I've done in the epicodus bootcamp._
 
-#### By _**Matthew**_
+#### By _**Matthew LeDoux**_
 
 ## Description
 

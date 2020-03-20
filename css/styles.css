@@ -16,3 +16,17 @@ span {
   padding-bottom: 15px;
   padding-top: 15px;
 }
+
+.sidebar {
+  float:left;
+  width: 200px;
+  height: 200px;
+  background-color: bisque;
+  padding: 15px;
+  
+}
+
+.sidebar h4{
+  text-align: center;
+  background-color: blanchedalmond;
+}
